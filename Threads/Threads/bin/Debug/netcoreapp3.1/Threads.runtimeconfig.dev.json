@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SMSALAVA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SMSALAVA\\.nuget\\packages"
+    ]
+  }
+}
